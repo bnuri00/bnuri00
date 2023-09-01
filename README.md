@@ -1,16 +1,12 @@
-### Hi there 👋
+## 🌱 I’m currently learning 
+<div>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  
+</div>
 
-<!--
-**bnuri00/bnuri00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 
+![Bitnuri's github stats](https://github-readme-stats.vercel.app/api?username=bnuri00&show_icons=true&theme=tokyonight)
+# 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnuri00&layout=compact&theme=tokyonight)
