@@ -21,4 +21,4 @@
 
 ![Bitnuri's github stats](https://github-readme-stats.vercel.app/api?username=bnuri00&show_icons=true&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=puuuu)](https://solved.ac/puuuu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=puuuu)](https://solved.ac/profile/puuuu/)
