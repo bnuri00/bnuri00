@@ -3,8 +3,8 @@
 
 
 🎓 부경대학교 IT융합응용공학과 졸업<br/>
-✏ 삼성 청년 SW 아카데미(SSAFY) 8기<br/>
-✏ 스파로스 아카데미 3기 -ing<br/>
+✏ 삼성 청년 SW 아카데미(SSAFY) 8기 수료<br/>
+✏ 스파로스 아카데미 3기 수료<br/>
 
 
 
@@ -17,6 +17,8 @@
 </div>
 
 # 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnuri00&layout=compact&theme=tokyonight)
+
 ![Bitnuri's github stats](https://github-readme-stats.vercel.app/api?username=bnuri00&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnuri00&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=puuuu)](https://solved.ac/puuuu/)
